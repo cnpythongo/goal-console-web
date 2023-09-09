@@ -1,11 +1,13 @@
 // Here you can add other styles
-.btn, .btn-hover, .btn-danger:hover, .btn-secondary:hover, .btn-dark:hover {
-  color: #FFF;
+.btn {
   margin-right: 0.5rem;
 }
-.btn-link, .btn-link:hover {
-  color: #321fdb;
+.btn-info, .btn-info:hover, .btn-success, .btn-success:hover, .btn-danger, .btn-danger:hover, .btn-secondary:hover, .btn-dark:hover {
+  color: #FFF;
 }
+// .btn-link, .btn-link:hover {
+//   color: #321fdb;
+// }
 .nav-padding-top {
   padding-top: 4px !important;
 }
